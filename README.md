@@ -5,6 +5,12 @@
 - 💞️ I’m looking to collaborate on anything at all as I am just looking for expierience.
 - 📫 How to reach me ryan@switchitoffice.com
 
+- [ ] npm
+- [ ] cargo
+- [ ] NeoVim
+- [ ] RipGrep
+- [ ] NvChad
+- [ ] .config/lua/custom
 <!---
 LunchTime5252/LunchTime5252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
