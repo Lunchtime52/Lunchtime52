@@ -14,7 +14,7 @@
 
 sudo snap install gh
 sudo apt install unzip
-sudo apt install ripgrep
+sudo snap install ripgrep --classic --edge
 sudo snap install nvim --classic --edge
 sudo snap install node --classic --edge
 sudo snap refresh && sudo apt update && sudo apt upgrade
