@@ -1,11 +1,21 @@
-<h1 align = "center">👋 Hi, I’m @Lunchtime52</h1>
-  
-- 👀 I’m interested in outdoors and anything to do with technology.
-- 🌱 I’m currently learning anything I can to inprove my skills.
-- 💞️ I’m looking to collaborate on anything at all as I am just looking for expierience.
-- 📫 How to reach me ryan@switchitoffice.com
+<h1 align="center">👋 Hi, I'm Ryan (@Lunchtime52)</h1>
 
-<!---
-LunchTime5252/LunchTime5252 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+A curious individual passionate about the outdoors and all things technology. Currently focused on expanding my skills and eager to collaborate on projects to gain experience.
+
+**What I'm Interested In:**
+
+* Exploring the outdoors ⛰️
+* The latest technological advancements 💻
+
+**What I'm Currently Learning:**
+
+* Continuously improving my technical abilities 🌱
+
+**Looking to Collaborate On:**
+
+* Any interesting projects where I can contribute and learn 🤝
+
+**How to Reach Me:**
+
+* 📧 ryan@switchitoffice.com
+
