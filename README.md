@@ -1,13 +1,18 @@
-<h1 align="center">👋 Hello there! I'm Ryan (@Lunchtime52)</h1>
+
 
 <p align="center">
-  <img src="banner.png" alt="My GitHub Banner">
+ 
+ ![github-banner](https://github.com/user-attachments/assets/b09b8009-a0ae-4dc4-acf3-2f8abc61e6b9)
+
+
 </p>
 
 <p align="center">
-  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![Profile Views](https://komarev.com/ghpvc/?username=Lunchtime52&label=Profile%20views&color=0e75b6&style=flat)
+  
+  ![Python](https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plasti&logo=javascript&logoColor=black)
+  
+  ![GitHub last commit](https://img.shields.io/github/last-commit/Lunchtime52/Lunchtime52?style=plastic&labelColor=blue&color=hotpink)
+  
 </p>
 
 An enthusiastic explorer of both the natural world and the ever-evolving landscape of technology. I'm currently on a journey of continuous learning and eager to apply my growing skills in collaborative projects.
