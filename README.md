@@ -1,21 +1,35 @@
-<h1 align="center">👋 Hi, I'm Ryan (@Lunchtime52)</h1>
+<h1 align="center">👋 Hello there! I'm Ryan (@Lunchtime52)</h1>
 
-A curious individual passionate about the outdoors and all things technology. Currently focused on expanding my skills and eager to collaborate on projects to gain experience.
+<p align="center">
+  <img src="banner.png" alt="My GitHub Banner">
+</p>
 
-**What I'm Interested In:**
+<p align="center">
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Profile Views](https://komarev.com/ghpvc/?username=Lunchtime52&label=Profile%20views&color=0e75b6&style=flat)
+</p>
 
-* Exploring the outdoors ⛰️
-* The latest technological advancements 💻
+An enthusiastic explorer of both the natural world and the ever-evolving landscape of technology. I'm currently on a journey of continuous learning and eager to apply my growing skills in collaborative projects.
 
-**What I'm Currently Learning:**
+**About Me:**
 
-* Continuously improving my technical abilities 🌱
+* Passionate about outdoor adventures and discoveries ⛰️
+* Fascinated by the latest innovations and trends in technology 💻
+* Also enjoy tinkering with my Ender 3 3D printer! 🛠️
 
-**Looking to Collaborate On:**
+**My Current Focus:**
 
-* Any interesting projects where I can contribute and learn 🤝
+* Dedicated to expanding my technical knowledge and abilities 🌱
 
-**How to Reach Me:**
+**Open to Collaboration:**
 
-* 📧 ryan@switchitoffice.com
+* Seeking opportunities to contribute to diverse projects and gain valuable experience 🤝
+* Always open to new ideas and learning from others
 
+**Let's Connect:**
+
+* Feel free to reach out via email at ryan@switchitoffice.com 📧
+* Check out my other repositories to see what I'm working on!
+
+---
