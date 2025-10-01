@@ -11,7 +11,7 @@
   
   ![Python](https://img.shields.io/badge/Vue.js-4FC08D?style=plastic&logo=vuedotjs&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plasti&logo=javascript&logoColor=black)
   
-  ![GitHub last commit](https://img.shields.io/github/last-commit/Lunchtime52/Lunchtime52?style=plastic&labelColor=blue&color=hotpink)
+  ![Last Updated](https://img.shields.io/github/last-commit/Lunchtime52/Lunchtime52?style=plastic&labelColor=blue&color=hotpink)
   
 </p>
 
