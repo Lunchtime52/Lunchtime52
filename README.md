@@ -34,7 +34,7 @@ An enthusiastic explorer of both the natural world and the ever-evolving landsca
 
 **Let's Connect:**
 
-* Feel free to reach out via email at ryan@switchitoffice.com 📧
+* Feel free to reach out via email at ryan@pixeldynasty.dev 📧
 * Check out my other repositories to see what I'm working on!
 
 ---
